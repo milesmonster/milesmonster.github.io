@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>AMEX Platinum 白金卡</title>
+    <link href="/2021/04/08/AMEX%20Platinum%20%E7%99%BD%E9%87%91%E5%8D%A1/"/>
+    <url>/2021/04/08/AMEX%20Platinum%20%E7%99%BD%E9%87%91%E5%8D%A1/</url>
+    
+    <content type="html"><![CDATA[<p>到美国以来，不知不觉入了信用卡的坑，其中年费最高的就是这张AMEX Platinum白金卡。$550的年费不可谓不肉疼，但用好这张卡，也会让持卡的成本大大降低，尤其是疫情以来的福利，更是让持卡成本成为负值。今天就来讲讲我为什么推荐这张卡。</p><p>白金卡的日常福利有：Uber cash每年$200：其中1-11月每月15，12月35，同时赠送Uber eat pass会员。这笔钱既可以打车也可以点外卖，基本都可以无损用掉。航空报销$200：理论上只能用于升舱、行李费、lounge费等增值服务，不过长期存在一些可以用于普通机票报销的奇技淫巧，我会另作介绍。saks报销$100，分为1-6月和7-12月各$50：saks官网和实体店消费都可以报销，还可以通过实体店买礼品卡的方式累积起来消费。白金卡的开卡奖励：长期存在75000点的开卡奖励，疫情期间给出了部分高达10万点的历史最高奖励，甚至还有grocery十倍返点的奖励，MR点数价值至少在1.25美分。疫情期间特殊福利：今年上半年，AMEX给出了每月$30的PayPal报销，去年曾经也给了很多福利。事实上，如果把握好开卡时间，第一年开卡可以获得超过2000美元的回报，这远远超过了很多普通信用卡的价值。至于如何获得更多的报销和兑现MR点数，我会慢慢介绍。</p><p>AMEX航空报销的奇技淫巧：AMEX有多张信用卡包含了航空报销的福利，包括白金卡、金卡（此福利于明年取消）、希尔顿Aspire卡，然而由于这项福利明确规定不能直接用于购买机票，给报销造成了困难，但还是有很多方法可以实现机票的报销。1. 小额机票法：对于southwest航空，小于100刀的机票一般都可以被报销，另外Alaska和AA航空也有一定概率被报销，但并不稳定，最常用的方法还是买southwest低价票，即使不飞也可以退成credit并在一年内用掉。 2. 礼卡+信用卡法：对于Delta航空，一个常用的方法是用一张giftcard支付部分机票，剩下的部分用信用卡支付（最好少于250刀）。 3. ua travelbank：UA去年恢复了travelbank充值功能并能成功触发报销，今年初曾一度无法报销，不过现在又可以报销了，可以抓紧上车了。UA的travelbank有效期五年，可以慢慢花掉了。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>local</tag>
+      
+      <tag>creditcards</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Huntington Bank</title>
+    <link href="/2021/01/05/Huntington%20Bank/"/>
+    <url>/2021/01/05/Huntington%20Bank/</url>
+    
+    <content type="html"><![CDATA[<p><img src="2021-01-05T000029.png" alt="2021-01-05T000029"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>debitcards</tag>
+      
+      <tag>local</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>first-post</title>
+    <link href="/2021/01/04/first-post/"/>
+    <url>/2021/01/04/first-post/</url>
+    
+    <content type="html"><![CDATA[<h1 id="this-is-the-first-post"><a href="#this-is-the-first-post" class="headerlink" title="this is the first post"></a>this is the first post</h1>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/01/04/hello-world/"/>
+    <url>/2021/01/04/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
